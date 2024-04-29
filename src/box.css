@@ -1,0 +1,23 @@
+.box {
+    background-color: #c7b4fc;
+    margin: 10px;
+}
+
+.box-small {
+    width: 200px;
+    height: 100px;
+}
+
+.box-medium {
+    width: 400px;
+    height: 100px;
+}
+
+.box-large {
+    width: 600px;
+    height: 100px;
+}
+
+.rounded {
+    border-radius: 20px;
+}

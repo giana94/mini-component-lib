@@ -1,0 +1,27 @@
+.text-small {
+    font-size: 0.8rem; 
+}
+
+.text-medium {
+    font-size: 1rem; 
+}
+
+.text-large {
+    font-size: 1.2rem;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-purple{
+    color: purple;
+}
+
+.text-red{
+    color: red;
+}
