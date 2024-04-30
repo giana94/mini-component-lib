@@ -1,8 +1,6 @@
 import './App.css'
 import MyAwesomeComponents from './MyAwesomeComponent.jsx';
 
-
-
 function App() {
   return (
     <>
