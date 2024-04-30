@@ -9,7 +9,6 @@ const Box = (props) => {
     large: "box-large"
     };
 
-
     const roundedCorners = props.round ? "rounded" : "";
     const boxStyle = `box ${sizes[props.size]} ${roundedCorners}`;
 
